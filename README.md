@@ -4,7 +4,7 @@
 
 # Apple
 
-> **Apple** a été crée en **1976** par **Steve Jobs**, **Steve Wozniak**, et **Ronald Wayne**. À savoir que le tout premier produit d'**Apple** est "Apple1", crée en avril **1976**, par les 3 fondateurs. Ce produit a été vendu avec environ 200 exemplaires.
+> **Apple** a été crée en **1976** par **Steve Jobs**, **Steve Wozniak**, et **Ronald Wayne**. À savoir que le tout premier produit d'**Apple** est "Apple1", crée en avril **1976**, par les 3 fondateurs. Ce produit a été vendu avec environ 200 exemplaires selon votre-it-facile.
 
 > **Apple** n'est pas le nom d'origine, c'est **Apple Computer**.
 
